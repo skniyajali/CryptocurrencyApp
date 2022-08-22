@@ -8,7 +8,7 @@
 It is a simple cryptocurrency details showing  App devlop using Kotlin & Jetpack - Compose,  
  - I've used Clean Architecture and SOLID Principles for better reusability & performance.
  - The Cryptocurrency Data will fetch from third party api service using Retrofit
- - For Dependency Injection I use Digger Hilt.
+ - For Dependency Injection I use Dagger Hilt.
 
 ## About Developer
 
