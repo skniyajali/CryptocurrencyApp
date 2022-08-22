@@ -1,4 +1,4 @@
-<h1 align="center"> `` Cryptocurrency Details Showing App `` </h1>
+# <h1 align="center"> `` Cryptocurrency Details Showing App `` </h1>
 
 ## <h2 align="center"> `` Kotlin | MVVM | Clean Architecture | SOLID Principles| API Intregation | Retrofit | Digger Hilt `` </h2>
 
