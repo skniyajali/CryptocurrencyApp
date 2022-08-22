@@ -1,6 +1,6 @@
 <h1 align="center"> Cryptocurrency Details Showing App </h1>
 
- `` Kotlin | MVVM | Clean Architecture | SOLID Principles| API Intregation | Retrofit | Digger Hilt ``
+ ##  <h4 align="center"> `` Kotlin | MVVM | Clean Architecture | SOLID Principles| API Intregation | Retrofit | Digger Hilt `` </h4>
 
 
 ## About Cryptocurrency Details Showing Android App
